@@ -4,7 +4,7 @@ metadata:
   name: 1001225655-service
 spec:
   selector:
-    app: 1001225655
+    app: revt-1001225655
   ports:
     - protocol: TCP
       port: 80
