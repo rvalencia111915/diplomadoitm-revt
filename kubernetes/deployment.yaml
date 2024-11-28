@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: mi-contenedor
-        image: nginx:1.7.9
+        image: 047719650114.dkr.ecr.us-east-1.amazonaws.com/j1128282732:latest
         ports:
         - containerPort: 5000
